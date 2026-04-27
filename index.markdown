@@ -1,11 +1,11 @@
 <div style="text-align:center; padding:30px; background:linear-gradient(135deg,#0f5132,#198754); color:white; border-radius:12px;">
 
-# Ravi Kalia
+ Ravi Kalia
 
-### Web Development Student | Front-End & Back-End Developer
 
 </div>
 
+### Web Development Student | Front-End & Back-End Developer
 ## About Me
 
 Hi, I’m **Ravi Kalia**, a web development student at **Humber Polytechnic**. I enjoy building clean, user-friendly, and practical web applications.
